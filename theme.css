@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto%20Serif&text=‡');
 
 body {
-  background-color: #444;
+  background-color: #111;
   color: #FFF;
   font-family: "Noto Serif", sans-serif;
   font-size: 20px;
@@ -10,7 +10,10 @@ body {
 .navbar {
   padding: 10px;
   text-align: center;
-  background: #666;
+  background: #333;
   color: white;
   font-size: 20px;
+  width: 100%;
+  left: 0px;
+  right: 0px;
 }
