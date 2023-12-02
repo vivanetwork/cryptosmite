@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto%20Serif&text=‡');
+
+body {
+  background-color: #444;
+  color: #FFF;
+  font-family: "Noto Serif", sans-serif;
+  font-size: 20px;
+}
+
+.navbar {
+  padding: 10px;
+  text-align: center;
+  background: #666;
+  color: white;
+  font-size: 20px;
+}
